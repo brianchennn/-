@@ -10,3 +10,5 @@ https://reurl.cc/d0V8Rk
 https://yylin1.github.io/2019/01/19/bastion-host/
 ## firewell  
 
+## haproxy
+https://www.haproxy.com/blog/howto-write-apache-proxypass-rules-in-haproxy/

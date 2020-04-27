@@ -15,3 +15,4 @@ https://www.haproxy.com/blog/howto-write-apache-proxypass-rules-in-haproxy/
 
 # iOTtALK
 ##  https://oranwind.org/-esp8266-nodemcu-zai-arduino-ide-she-ding-nodemcu/
+安裝完開發板了

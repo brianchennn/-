@@ -12,3 +12,6 @@ https://yylin1.github.io/2019/01/19/bastion-host/
 
 ## haproxy
 https://www.haproxy.com/blog/howto-write-apache-proxypass-rules-in-haproxy/
+
+# iOTtALK
+##  https://oranwind.org/-esp8266-nodemcu-zai-arduino-ide-she-ding-nodemcu/

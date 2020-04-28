@@ -12,7 +12,10 @@ https://yylin1.github.io/2019/01/19/bastion-host/
 
 ## haproxy
 https://www.haproxy.com/blog/howto-write-apache-proxypass-rules-in-haproxy/
+## dig 指令相關
+dig @10.113.50.1 +noall +answer ... 僅顯示答案 
 
 # iOTtALK
 ##  https://oranwind.org/-esp8266-nodemcu-zai-arduino-ide-she-ding-nodemcu/
 安裝完開發板了
+
